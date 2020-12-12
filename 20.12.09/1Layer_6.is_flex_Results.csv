@@ -1,0 +1,8 @@
+Data : Measurement 1,Time
+Data : Measurement 2,Load
+Export raw data : Export raw data,True
+Specimen properties : Thickness,"2.80000",mm
+Specimen properties : Width,"13.40000",mm
+Specimen properties : Support span,"44.80000",mm
+Data : Data capture,Default
+
